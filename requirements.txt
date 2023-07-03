@@ -1,8 +1,8 @@
-Django==4.2.2
-django-jazzmin==2.6.0
-django-requests==0.0.2
-gunicorn==20.1.0
-psycopg2==2.9.6
-python-decouple==3.8
-requests==2.31.0
-whitenoise==6.4.0
+Django
+django-jazzmin
+django-requests
+gunicorn
+psycopg2
+python-decouple
+requests
+whitenoise
