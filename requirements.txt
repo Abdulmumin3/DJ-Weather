@@ -5,4 +5,3 @@ gunicorn
 psycopg2
 python-decouple
 requests
-whitenoise
